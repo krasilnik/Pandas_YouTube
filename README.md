@@ -17,4 +17,4 @@ I explored data visually and statistically, revealing hidden trends. Creating vi
 Deriving Meaningful Conclusions: 
 I translated raw data into actionable insights, enhancing my skills in communication and data-driven decision-making.
 
-Completing this YouTube Trending Video Analysis project with Pandas honed my data manipulation, visualization, and interpretation abilities. These skills extend beyond video analysis, proving invaluable in various data-centric fields like marketing, finance, and more.
+Completing this YouTube Trending Video Analysis project with Pandas honed my data manipulation, visualization, and interpretation abilities. These skills extend beyond video analysis, proving valuable in various data-centric fields like marketing, finance, and more.
